@@ -5,7 +5,7 @@ function myfunction(){
 }
 
 function onClick(){
-    console.log("This is onclick event");
+    console.log("This is onclick revent");
 }
 function onMouseover(){
     console.log("This is onmouseover event");
@@ -14,7 +14,7 @@ function onMouseout(){
     console.log("This is onmouseout event");
 }
 function onMousedown(){
-    console.log("This is onkeydown event");
+    console.log("This is onmousedown event");
 }
 function onMouseup(){
     console.log("This is onmouseup event");
